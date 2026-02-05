@@ -1,0 +1,63 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1-555-0123",
+  "location": "San Francisco, CA",
+  "linkedin": "linkedin.com/in/johndoe",
+  "github": "github.com/johndoe",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "SQL",
+    "Git",
+    "API Development",
+    "Agile"
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "duration": "2020 - Present",
+      "description": "Led development of scalable web applications"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Startup Inc",
+      "duration": "2018 - 2020",
+      "description": "Built RESTful APIs and frontend components"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of Technology",
+      "year": "2018"
+    }
+  ],
+  "summary": "Passionate software engineer with 5+ years of experience building modern web applications. Strong expertise in full-stack development with a focus on scalability and performance.",
+  "achievements": [
+    "Reduced API response time by 60% through optimization",
+    "Led team of 5 developers on major product launch",
+    "Implemented CI/CD pipeline reducing deployment time by 75%"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Scrum Master"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built scalable platform handling 10k+ daily users",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "AWS"
+      ]
+    }
+  ],
+  "job_id": "test_job_001",
+  "generated_at": "2026-02-05T09:51:24.598Z"
+}

@@ -1,0 +1,19 @@
+{
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Java",
+    "AWS",
+    "Docker",
+    "API",
+    "Agile",
+    "CI/CD"
+  ],
+  "job_title": "Software Engineer",
+  "company": "Company Name",
+  "requirements": [
+    "We are looking for a Senior Software Engineer with expertise in JavaScript, React, Node.js, Python, AWS, Docker, and API development. Must have experience with Agile methodologies and CI/CD pipelines."
+  ]
+}
