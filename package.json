@@ -1,0 +1,14 @@
+{
+  "name": "project-kill",
+  "version": "1.0.0",
+  "description": "Professional Resume Compiler Desktop Application",
+  "scripts": {
+    "server": "cd local-server && node server.js",
+    "ui": "cd desktop-ui && npm run dev",
+    "dev": "npm run server & npm run ui",
+    "setup": "npm install && cd desktop-ui && npm install && cd ../local-server && npm install"
+  },
+  "keywords": ["resume", "ats", "desktop", "react", "node"],
+  "author": "",
+  "license": "MIT"
+}
