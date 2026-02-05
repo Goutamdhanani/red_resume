@@ -1,0 +1,19 @@
+{
+  "summary": "Passionate software engineer with 5+ years of experience building modern web applications. Strong expertise in full-stack development with a focus on scalability and performance.",
+  "achievements": [
+    "Reduced API response time by 60% through optimization",
+    "Led team of 5 developers on major product launch",
+    "Implemented CI/CD pipeline reducing deployment time by 75%"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Scrum Master"
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built scalable platform handling 10k+ daily users",
+      "tech": ["React", "Node.js", "MongoDB", "AWS"]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1-555-0123",
+  "location": "San Francisco, CA",
+  "linkedin": "linkedin.com/in/johndoe",
+  "github": "github.com/johndoe",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "SQL",
+    "Git",
+    "API Development",
+    "Agile"
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "duration": "2020 - Present",
+      "description": "Led development of scalable web applications"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Startup Inc",
+      "duration": "2018 - 2020",
+      "description": "Built RESTful APIs and frontend components"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of Technology",
+      "year": "2018"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.vscode/
+*.tmp
+tmp/
+build/
+coverage/
+.cache/
+
+# Generated files during runtime
+ats_score.json
+resumes/compiled/*.json
+jobs/*/
+!jobs/.gitkeep
+
+# Lock files (optional - uncomment if needed)
+# package-lock.json
+# desktop-ui/package-lock.json
+# local-server/package-lock.json
